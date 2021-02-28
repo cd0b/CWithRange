@@ -1,4 +1,4 @@
-int range_func(int a, int b) {
+long range_func(int a, int b) {
 
 	static long begin;
 	static int ctl = 0;
