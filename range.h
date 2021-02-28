@@ -10,4 +10,4 @@
 		\
 
 
-long range_func(int, int);
+long range_func(long, long);
